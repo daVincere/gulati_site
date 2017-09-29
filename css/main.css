@@ -1,0 +1,209 @@
+*{
+	font-family: 'Montserrat', sans-serif;
+	
+}
+
+/*
+***************************/
+
+.logo{
+	margin-top:15px; 
+	padding: 10px;
+	letter-spacing: 10px;
+	font-size: 40px;
+	font-weight: bold;
+	font-weight: thin;
+	color:#ff63b1
+}
+
+p{
+	font-weight: bold;
+}
+
+.logo a 
+{
+	color:#26202E;
+}
+
+.logo a:hover 
+{
+	color : #DBD4C2;
+	text-shadow: 1px 1px 0 yellow;  
+	text-decoration: none;
+}
+
+/* 
+***************************/
+.heading{
+	font-weight: bold;
+}
+
+.page-divider {
+    border-bottom: 1px solid #ddd;
+}
+
+.image
+{
+	padding: 10px;
+}
+
+.links li
+{
+	display: inline;
+}
+
+.links a
+{
+	padding: 0px 10px;
+	font-weight: bold;
+	color: #26202E;
+}
+
+.links a:hover
+{
+	color: #DBD4C2;
+	text-decoration: none;
+}
+/*
+**************************/
+
+.card {
+	background-color: #FAFAFA;
+}
+
+/*
+**************************/
+.banner{
+	/*box-shadow: 5px 5px 3px #ccc;*/
+
+	-webkit-box-shadow: 10px 10px 27px 3px rgba(184,178,184,0.81);
+	-moz-box-shadow: 10px 10px 27px 3px rgba(184,178,184,0.81);
+	box-shadow: 10px 10px 27px 3px rgba(184,178,184,0.81);
+}
+
+
+.navbar
+{
+	background: #F5F5F5;
+	height: 50px;
+}
+
+.readable 
+{
+	font-family: 'Lusitana', serif;
+	font-weight: normal;
+	font-size: 15px;
+}
+
+.us
+{
+	margin-top: 30px;
+	padding: 20px;
+	background: #252525;
+	height: 100px;
+}
+#cog{
+	padding: 30px;
+}
+
+.border_bold{
+	padding: 20px;
+	border: 1px solid black! important;
+}
+
+body{
+	margin-bottom: 140px;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+/*
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+   Set the fixed height of the footer here 
+  height: 60px;
+  background-color: #f5f5f5;
+}*/
+
+
+
+.footer 
+{	
+	position: absolute;
+	height: 60px;
+	right: 0;
+	left: 0;
+	bottom: 0;
+
+	padding-top: 10px;
+	/*background: #252525;*/
+	color:#26202E;
+
+	font-size: 15px;
+
+	text-align: center;
+	list-style: none;
+}
+
+
+.footer-nav li
+{
+	display: inline;
+}
+
+.footer-nav li:not(:first-child):before
+{
+	content: '|';
+	padding: 0px 10px;
+}
+
+.footer-nav a 
+{
+	color:#26202E;
+}
+
+.footer-nav a:hover 
+{
+	/*color : #fff;*/
+	
+	color: #DBD4C2;
+	text-decoration: none;
+}
+
+.resume_text {
+	font-weight: bold;
+	padding-right: 35px;
+}
+
+.edelweiss_text{
+	font-size: 1.2em;
+}
+.show_text a{
+	font-weight: bold;
+	color:#26202E;
+}
+.show_text a:hover{
+	font-weight: bold;
+	text-decoration: none;
+	color: #DBD4C2;
+	border-color: #26202E;
+	border: 2px solid #26202E;
+	border-radius: 5px;
+	padding: 5px;
+}
+
+
+.rotate90 {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
