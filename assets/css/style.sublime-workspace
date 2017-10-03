@@ -1,0 +1,501 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sr",
+				"script	Tag"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"overfl",
+				"overflow-y"
+			],
+			[
+				"sn",
+				"snakeList"
+			],
+			[
+				"snake",
+				"snakeHead"
+			],
+			[
+				"ran",
+				"randAppleX"
+			],
+			[
+				"lead",
+				"lead_y_change"
+			],
+			[
+				"disp",
+				"display_height"
+			],
+			[
+				"lea",
+				"lead_y"
+			],
+			[
+				"le",
+				"lead_y_change"
+			],
+			[
+				"lead_",
+				"lead_y"
+			],
+			[
+				"dis",
+				"display_width"
+			],
+			[
+				"bill_",
+				"bill_amt"
+			],
+			[
+				"last_da",
+				"last_day"
+			],
+			[
+				"a",
+				"awt"
+			],
+			[
+				"ca",
+				"calc"
+			],
+			[
+				"ue",
+				"username_input"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"check",
+				"check2"
+			],
+			[
+				"br",
+				"br"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"i",
+				"img	Tag"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"li",
+				"link	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/H/website portfolio/Virtual Resume/index.html",
+		"/C/Users/Ashish/.hyper_plugins/package.json",
+		"/C/Users/Ashish/Downloads/foodcham_frontend-abhishek/coming_soonpage/assets/bootstrap/js/npm.js",
+		"/H/website portfolio/ashishgulati71.github.io/index.html",
+		"/C/Users/Ashish/.hyper.js",
+		"/H/website portfolio/Virtual Resume/css/style.css",
+		"/F/Other Projects/git-game/cool.cpp",
+		"/F/Other Projects/git-game/README.md",
+		"/C/Users/Ashish/AppData/Local/Temp/7zO28FB.tmp/index.html",
+		"/G/udemy JS learnings/js1.js",
+		"/G/udemy JS learnings/index1.html",
+		"/C/Users/Ashish/Desktop/Kite Tour",
+		"/C/Users/Ashish/Desktop/Nasa Spaceapp/tables.html",
+		"/C/Users/Ashish/Desktop/Yahoo/study sem5/we/web/sturegister.html",
+		"/C/Users/Ashish/Downloads/foodcham_frontend-abhishek/foodcham_m/fonts test/test.html",
+		"/C/Users/Ashish/Downloads/foodcham_frontend-abhishek/foodcham_m/assets/css/popup_menu.css",
+		"/C/Users/Ashish/Downloads/foodcham_frontend-abhishek/foodcham_m/assets/css/slick.css",
+		"/C/Users/Ashish/Downloads/foodcham_frontend-abhishek/foodcham_m/category.html",
+		"/C/Users/Ashish/Desktop/Yahoo/study sem5/we/web/radioButtonvalidation.html",
+		"/C/Users/Ashish/Desktop/Yahoo/study sem5/we/web/tables.html",
+		"/C/Users/Ashish/Downloads/foodcham_frontend-abhishek/foodcham_m/orderpage.html",
+		"/C/Users/Ashish/Downloads/foodcham_frontend-abhishek/foodcham_m/starter2.html",
+		"/F/HackathonProjects/hashhacks2/HashHacks/Assets/Scripts/BubbleController.cs",
+		"/G/ArsenicLabs/Kudzoy Demo Offline/Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs",
+		"/G/ArsenicLabs/Kudzoy Demo Offline/Assets/Scripts/TrackableEventHandler.cs",
+		"/F/HackathonProjects/HashHacks/Assets/Scripts/BubbleController.cs",
+		"/C/Users/Ashish/Desktop/Yahoo/study sem5/we/2.5em8.html",
+		"/C/Users/Ashish/Desktop/Yahoo/study sem5/we/list.html",
+		"/C/Users/Ashish/Desktop/Yahoo/study sem5/we/web/multiply.html",
+		"/C/Users/Ashish/Desktop/Yahoo/study sem5/we/web/quadratic.html",
+		"/C/Users/Ashish/Desktop/Yahoo/study sem5/we/web/SmallestLargest.html",
+		"/C/Users/Ashish/Desktop/Yahoo/study sem5/we/web/login.html",
+		"/C/Users/Ashish/Desktop/Yahoo/study sem5/we/web/LandS.html",
+		"/C/Users/Ashish/Desktop/Yahoo/study sem5/we/web/countPosNegZero.html",
+		"/C/Users/Ashish/Desktop/Yahoo/study sem5/we/web/frame1.html",
+		"/C/Users/Ashish/Desktop/Yahoo/study sem5/we/web/frame4.html",
+		"/C/Users/Ashish/Desktop/Yahoo/study sem5/we/web/frame3.html",
+		"/C/Users/Ashish/Desktop/Yahoo/study sem5/we/web/frame2.html",
+		"/C/Users/Ashish/Desktop/Yahoo/study sem5/we/web/coloredframe.html",
+		"/C/Users/Ashish/Desktop/Yahoo/study sem5/we/web/armstrong.html",
+		"/C/Users/Ashish/Desktop/Yahoo/study sem5/we/web/validation.html",
+		"/C/Users/Ashish/Desktop/Yahoo/study sem5/we/web/bankCustomer.html",
+		"/C/Users/Ashish/Desktop/Yahoo/study sem5/we/web/checkAge.html",
+		"/C/Users/Ashish/Desktop/Yahoo/study sem5/we/web/checkValidation.html",
+		"/C/Users/Ashish/Desktop/Yahoo/study sem5/we/web/clock2.html",
+		"/C/Users/Ashish/Desktop/Yahoo/study sem5/we/web/clock.html",
+		"/H/FoodCham All/foodcham_frontend-abhishek/foodcham_m/assets/js/scripts.js",
+		"/H/FoodCham All/foodcham_frontend-abhishek/foodcham_m/index.html",
+		"/H/FoodCham All/foodcham_frontend-abhishek/foodcham_m/assets/css/newpopup.css",
+		"/H/FoodCham All/foodcham_frontend-abhishek/foodcham_m/assets/css/cart.css",
+		"/H/FoodCham All/foodcham_frontend-abhishek/foodcham_m/popup.html",
+		"/H/FoodCham All/foodcham_frontend-abhishek/foodcham_m/cart.html",
+		"/H/FoodCham All/foodcham_frontend-abhishek/foodcham_m/assets/css/pizza.css",
+		"/H/FoodCham All/foodcham_frontend-abhishek/foodcham_m/starter.html",
+		"/G/Search/SearchApp/Assets/firebaseCustom.cs",
+		"/G/ArsenicLabs/WorkingVideo/Assets/_Package/Scripts/LoadingController.cs",
+		"/F/HackathonProjects/hashhacks2/HashHacks/Assets/Plugins/Android/AndroidManifest.xml",
+		"/G/unity packages/quickstart-unity-master/storage/testapp/Assets/TestApp/UIHandler.cs",
+		"/H/FBLogin/Assets/FacebookSDK/Examples/Scripts/SubMenus/MainMenu.cs",
+		"/H/FoodCham All/foodcham_frontend-abhishek/foodcham_m/assets/js/cart.js",
+		"/H/FoodCham All/foodcham_frontend-abhishek/foodcham_m/admin.html",
+		"/H/FoodCham All/foodcham_frontend-abhishek/foodcham_m/assets/js/retina-1.1.0.min.js",
+		"/H/FoodCham All/foodcham_frontend-abhishek/foodcham_m/assets/js/wow.min.js",
+		"/H/FoodCham All/foodcham_frontend-abhishek/foodcham_m/assets/js/jquery.backstretch.min.js",
+		"/H/FoodCham All/foodcham_frontend-abhishek/foodcham_m/Gruntfile.js",
+		"/F/HackathonProjects/HACKINOUT/ARoutes/Assets/CUSTOM/locationtest.cs",
+		"/C/Users/Ashish/Desktop/ang/config.js",
+		"/C/Users/Ashish/Desktop/ang/index.html",
+		"/G/ArsenicLabs/SearchApp/Assets/facebook.cs",
+		"/C/Users/Ashish/Desktop/aa.py",
+		"/C/openssl-1.1.0e/INSTALL",
+		"/I/FoodCham_main1/foodcham_m/confirm-box.html",
+		"/I/FoodCham_main1/foodcham_m/cart.html",
+		"/I/FoodCham_main1/foodcham_m/starter.html",
+		"/I/FoodCham_main1/foodcham_m/cart.js",
+		"/I/FoodCham_main1/foodcham_m/starter2.html",
+		"/I/FoodCham_main1/foodcham_m/confirm box.html",
+		"/I/FoodCham_main1/foodcham_m/popup.html",
+		"/I/FoodCham_main1/foodcham_m/orderpage/orderpage.html",
+		"/I/FoodCham_main1/foodcham_m/cart.css",
+		"/I/FoodCham_main1/MarkUps-SpicyX_v1.1/SpicyX/assets/css/slick.css",
+		"/I/FoodCham_main1/MarkUps-SpicyX_v1.1/SpicyX/index.html",
+		"/C/Users/Ashish/Desktop/exp1.html",
+		"/C/Users/Ashish/Desktop/DefaultTrackableEventHandler.cs",
+		"/C/Users/Ashish/Desktop/SimpleCloudHandler.cs",
+		"/C/Users/Ashish/Desktop/VideoPlaybackBehaviour.cs",
+		"/C/Users/Ashish/Desktop/VideoPlaybackController.cs",
+		"/I/FoodCham_main1/foodcham_m/pizza_custom/pizza.css",
+		"/C/Users/Ashish/.android/debug.keystore",
+		"/G/unity projects/cloud+video+test/jugaad/Assets/VideoTapHandler.cs",
+		"/G/unity projects/cloud+video+test/jugaad/Assets/SimpleCloudHandler.cs",
+		"/G/unity projects/cloud+video+test/jugaad/Assets/VideoPlaybackController.cs",
+		"/C/Users/Ashish/Desktop/admin.js",
+		"/I/FoodCham_main1/foodcham_m/pizza_custom/pizza.js",
+		"/C/Users/Ashish/Desktop/workshop.py",
+		"/C/Users/Ashish/Desktop/urtle.py",
+		"/C/Users/Ashish/Desktop/fgame.py",
+		"/C/Users/Ashish/Desktop/abc.py",
+		"/C/Users/Ashish/Desktop/calc.py",
+		"/C/Users/Ashish/Desktop/pygae.py",
+		"/C/Users/Ashish/Desktop/WebcamToPNG.cs",
+		"/C/Users/Ashish/Desktop/pytest.py",
+		"/H/setups new/hluk-CopyQ-afa21a2/INSTALL",
+		"/H/FoodCham All/FoodCham_main1/foodcham_m/pizza_custom/pizza.js",
+		"/C/Users/Ashish/Desktop/New folder/30.7.16/Every other thing/dekstop data/New folder (3)/motor/main.c",
+		"/C/Users/Ashish/Desktop/New folder/30.7.16/Every other thing/dekstop data/New folder (3)/New folder/ash.html",
+		"/C/Users/Ashish/Desktop/New folder/30.7.16/Every other thing/dekstop data/New folder (3)/project/project1.html",
+		"/C/Users/Ashish/Desktop/JAVA/generic.java",
+		"/C/Users/Ashish/Desktop/JAVA/MenuDemo.java",
+		"/C/Users/Ashish/Desktop/JAVA/jas/Cal.java",
+		"/C/Users/Ashish/Desktop/JAVA/EvenOdd.java",
+		"/H/website portfolio/ashish gulati/ashishgulati71.github.io/index.html",
+		"/H/web pages/countdown birthday/birthday/ThisIsCountDownToJ'sBirthday.html",
+		"/C/Users/Ashish/Desktop/JAVA/AbsShape.java",
+		"/C/Users/Ashish/Desktop/JAVA/java/Loan.java",
+		"/H/web pages/comng soon/Theme/assets/js/jquery.min.js",
+		"/H/FoodCham All/trendset-coming-soon-web-template/fc/jquery.countdown.js",
+		"/H/FoodCham All/trendset-coming-soon-web-template/fc/countdown.js",
+		"/H/web pages/countdown birthday/Backstretch.js",
+		"/C/Users/Ashish/Desktop/JAVA/AppletsTrail/Calc.java",
+		"/C/Users/Ashish/Desktop/calc.java",
+		"/C/Users/Ashish/Desktop/JAVA/traffic.java",
+		"/C/Users/Ashish/Desktop/JAVA/SimpleCal.java",
+		"/C/Users/Ashish/Desktop/java/try.htm",
+		"/C/Users/Ashish/Desktop/try.htm",
+		"/F/HackathonProjects/Paytm Hacks final/Paytm/Assets/Plugins/Pixelplacement/iTween/Sample/MoveCards.cs",
+		"/F/Arsenic tests/TDI new/TDI Location Map/Assets/Script/Raycast.cs",
+		"/G/unity projects/glu 4.6/Assets/Scripts/colliderScript.cs"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"achivements",
+			"user",
+			"title",
+			"mLostTracking",
+			"');\n",
+			"load",
+			"pan-02",
+			"<hr>",
+			"hr",
+			"1.jpg",
+			"backstretch",
+			"1.jpg",
+			"backstretch",
+			"backgrounds",
+			"content-header",
+			"content",
+			"step-pane",
+			"wrapper",
+			"overflow",
+			"reset",
+			"btn-next",
+			"btn-nxt",
+			"base",
+			"UpdateLocation",
+			"cart summary",
+			"30",
+			"snake",
+			"python",
+			"setInterval",
+			"roa",
+			"home",
+			"road",
+			"demo",
+			"Calculation",
+			"My_Calculation",
+			"rajdeep",
+			"desktop",
+			"scrape",
+			"Ashish a = new Ashish();",
+			"color",
+			"firebase",
+			"google",
+			"mail",
+			"simple",
+			"Responsive Personal",
+			"mapCanvas",
+			"map",
+			" map",
+			" canvas",
+			" ></",
+			"my-signature",
+			"home2",
+			"imageurl",
+			"timeline",
+			"discount",
+			"_text",
+			"_text ",
+			"    ",
+			"insert",
+			"ASH",
+			"touch.phase",
+			"touchphase"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"25",
+			" calc",
+			" ",
+			"",
+			"        "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "style.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
